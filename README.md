@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Sakshi Rani
-- 👀 I’m interested in data and business analytics
-- 🌱 I’m currently learning Microsoft Power BI , Python and SQL
+Hi! I'm Sakshi Rani, a passionate and aspiring Data Analyst.
+Studying Masters Of Science in Mathematics from Netaji Subhas University Of Technology
+Interested in Data Analytics, Machine Learning , Data Visualization , Python.
+Skills:
+Programming Languages: Python, R
+Data Analysis: Pandas, NumPy
+Data Visualization: Matplotlib, Seaborn, microsoft Power BI
+Databases: SQL, PostgreSQL
+Tools: Jupyter Notebook, Excel
 
-
-<!---
-Sakshi-Rani-21/Sakshi-Rani-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm excited to share my work and grow in this field!
