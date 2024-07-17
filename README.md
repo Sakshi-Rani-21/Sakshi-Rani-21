@@ -1,6 +1,7 @@
 Hi! I'm Sakshi Rani, a passionate and aspiring Data Analyst.
-Studying Masters Of Science in Mathematics from Netaji Subhas University Of Technology
+Studying Masters Of Science in Mathematics from Netaji Subhas University Of Technology.
 Interested in Data Analytics, Machine Learning , Data Visualization , Python.
+
 Skills:
 Programming Languages: Python, R
 Data Analysis: Pandas, NumPy
