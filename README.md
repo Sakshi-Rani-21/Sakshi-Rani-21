@@ -3,14 +3,15 @@ Studying Masters Of Science in Mathematics from Netaji Subhas University Of Tech
 Interested in Data Analytics, Machine Learning , Data Visualization , Python.
 
 **Skills:**
-Programming Languages: Python, R,
 
-Data Analysis: Pandas, NumPy,
+**Programming Languages:** Python, R
 
-Data Visualization: Matplotlib, Seaborn, microsoft Power BI,
+**Data Analysis:** Pandas, NumPy
 
-Databases: SQL, PostgreSQL,
+**Data Visualization:** Matplotlib, Seaborn, microsoft Power BI
 
-Tools: Jupyter Notebook, Excel.
+**Databases:** SQL, PostgreSQL
+
+**Tools:** Jupyter Notebook, Excel
 
 I'm excited to share my work and grow in this field!
