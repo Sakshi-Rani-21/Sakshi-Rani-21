@@ -8,7 +8,7 @@ Interested in Data Analytics, Machine Learning , Data Visualization , Python.
 
 **Data Analysis:** Pandas, NumPy
 
-**Data Visualization:** Matplotlib, Seaborn, microsoft Power BI
+**Data Visualization:** Matplotlib, Seaborn,Plotly
 
 **Databases:** SQL, PostgreSQL
 
