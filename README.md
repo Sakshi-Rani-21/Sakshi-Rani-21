@@ -12,6 +12,6 @@ Interested in Data Analytics, Machine Learning , Data Visualization , Python.
 
 **Databases:** SQL, PostgreSQL
 
-**Tools:** Jupyter Notebook, Excel
+**Tools:** Jupyter Notebook, Excel, Power BI
 
 I'm excited to share my work and grow in this field!
